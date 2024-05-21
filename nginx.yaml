@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: feed1119/github-52panda-ci-test:15198e6b91e1d0cfe54bfbf6c9deab1af387bdc9
+        image: feed1119/github-52panda-ci-test:8045b6ffaaff38915ff2123145adf640c8f37303
         ports:
         - containerPort: 80  # Nginx가 사용하는 포트
 
